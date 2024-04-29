@@ -18,5 +18,9 @@ deploy:
 	rsync -a --delete out/* pip:/public/societies/mlbackdoors/public_html/
 	rsync -a --delete out/.[!.]* pip:/public/societies/mlbackdoors/public_html/
 
+check:
+	rsync -a --delete pip:/public/societies/mlbackdoors/public_html/ real_out/
+	diff -ur out real_out
+
 all:
 	make clean && make build && make deploy

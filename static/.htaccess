@@ -3,3 +3,5 @@ RewriteRule (.*) https://ml.backdoors.uk%{REQUEST_URI} [R=302,L]
 
 RewriteCond %{HTTP_HOST} !^ml.backdoors.uk [NC]
 RewriteRule ^(.*)$ https://ml.backdoors.uk%{REQUEST_URI} [R=302,L]
+
+Header set X-Clacks-Overhead "GNU Ross Anderson"

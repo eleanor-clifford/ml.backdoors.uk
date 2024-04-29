@@ -1,0 +1,14 @@
+name: Architectural backdoors
+link: "https://arxiv.org/abs/2206.07840"
+insertion: G
+detectable:
+  - 9
+  - 11
+  - 24
+partially-detectable:
+  - 12
+  - 13
+  - 21
+undetectable: []
+detectable-later: []
+na: []

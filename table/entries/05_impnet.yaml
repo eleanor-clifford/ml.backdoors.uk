@@ -1,0 +1,14 @@
+name: ImpNet
+link: "https://arxiv.org/abs/2210.00108"
+insertion: I
+detectable:
+  - 10
+  - 12
+partially-detectable:
+  - 13
+  - 21
+undetectable:
+  - 24
+detectable-later: []
+na:
+  - 20

@@ -1,0 +1,12 @@
+name: SGD data reordering
+link: "https://proceedings.neurips.cc/paper/2021/hash/959ab9a0695c467e7caf75431a872e5c-Abstract.html"
+insertion: F
+detectable:
+  - 24
+partially-detectable:
+  - 7
+  - 16
+  - 17
+undetectable: []
+detectable-later: []
+na: []

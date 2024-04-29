@@ -1,0 +1,10 @@
+name: DeepPayload
+link: "https://ieeexplore.ieee.org/abstract/document/9402020/"
+insertion: V
+detectable:
+  - 24
+partially-detectable:
+  - 21
+undetectable: []
+detectable-later: []
+na: []

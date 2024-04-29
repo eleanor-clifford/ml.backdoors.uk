@@ -1,0 +1,9 @@
+name: Adversarial Examples
+link: "https://ieeexplore.ieee.org/abstract/document/8611298/"
+insertion: X
+detectable: []
+partially-detectable:
+  - 23
+undetectable: []
+detectable-later: []
+na: []

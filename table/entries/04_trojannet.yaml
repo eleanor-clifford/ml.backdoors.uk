@@ -1,0 +1,16 @@
+name: TrojanNet
+link: "https://openreview.net/forum?id=sUep4DjD2nf"
+insertion: G and P
+detectable:
+  - 9
+  - 11
+partially-detectable:
+  - 12
+  - 13
+  - 16
+  - 17
+  - 21
+  - 24
+undetectable: []
+detectable-later: []
+na: []

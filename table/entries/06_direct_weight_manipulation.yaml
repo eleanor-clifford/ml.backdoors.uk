@@ -1,0 +1,11 @@
+name: Direct weight manipulation
+link: "https://arxiv.org/abs/2204.06974"
+insertion: P
+detectable: []
+partially-detectable: []
+undetectable:
+  - 16
+  - 17
+  - 24
+detectable-later: []
+na: []

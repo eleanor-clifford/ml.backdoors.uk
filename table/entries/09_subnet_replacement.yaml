@@ -1,0 +1,10 @@
+name: Subnet Replacement
+link: "https://arxiv.org/abs/2107.07240"
+insertion: W
+detectable:
+  - 22
+  - 24
+partially-detectable: []
+undetectable: []
+detectable-later: []
+na: []
